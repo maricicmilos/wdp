@@ -21,6 +21,6 @@
     },
     "dependencies": {
         "@glidejs/glide": "^3.4.1",
-        "tinymce": "^5.1.5"
+        "tinymce": "^5.4.0"
     }
 }
